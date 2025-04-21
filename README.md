@@ -168,7 +168,8 @@ The overarching goal is to ensure that individuals from underserved communities 
 
 
 ## Contributors 💁‍♂️
-- ### Adtiya Sharma
+- ### Aditya Sharma
+- ### Vatsal Tiwari
 
 ## How to Set-Up Locally
 
